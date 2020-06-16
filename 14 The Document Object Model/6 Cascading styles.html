@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cascading styles</title>
+</head>
+<body>
+<h1>Cascading styles</h1>
+<p class = "blueLetters" style="border: 3px solid red; font-size: 200%">
+    Blue letters
+</p>
+<p>Now <strong> the strong text </strong> is italic and gray</p>
+<p>Now <strong style="font-weight: normal">  the strong text </strong> is not strong anymore.</p>
+
+<style>
+    strong {
+        font-style: italic;
+        color: gray;
+    }
+    .blueLetters{
+        color: blue;
+    }
+</style>
+</body>
+</html>

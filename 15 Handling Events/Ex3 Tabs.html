@@ -1,0 +1,45 @@
+
+<!--Tab-panels allow you to choose from a number of tabs “sticking out” above an element. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise 3 Tabs</title>
+</head>
+<body>
+<tab-panel>
+    <div data-tab="one">Tab one</div>
+    <div data-tab="two">Tab two</div>
+    <div data-tab="three">Tab three</div>
+</tab-panel>
+<script>  //create interface: return tabs with buttons
+    function createTabs(node){
+        let tabs=Array.from(node.children).map(subNode=>{
+            let button = document.createElement("button");
+            button.textContent=subNode.getAttribute("data-tab");
+            let tab={subNode, button};
+            button.addEventListener("click", ()=>selectTab(tab));
+            return tab;
+        });
+
+        let tabList = document.createElement("div");
+        for (let{button}of tabs) tabList.appendChild(button);
+        node.insertBefore(tabList, node.firstChild);
+
+//Use style to hide reminding tabs and button color
+        function selectTab(selectedTab) {
+            for (let tab of tabs) {
+               let selected = tab == selectedTab;
+                   tab.subNode.style.display = selected ? "" : "none";
+                   tab.button.style.color = selected ? "red" : "";
+            };
+        }
+        selectTab(tabs[0]);
+    }
+
+    createTabs(document.querySelector("tab-panel"));
+
+</script>
+</body>
+</html>
+

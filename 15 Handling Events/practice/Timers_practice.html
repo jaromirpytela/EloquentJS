@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Timers_practice</title>
+</head>
+<body>
+<h1>Timers practice</h1>
+<script>
+    // set/clear timeout
+    let bombTimer = setTimeout(()=> {
+        console.log("BOOM");
+    },2050);
+    if (Math.random()<0.5) {
+        console.log("Defused");
+        clearTimeout(bombTimer);
+    };
+// set/clear interval
+    let ticks =0;
+    let clock=setInterval(()=>{
+        console.log ("tick", ticks++);
+        if (ticks == 10){
+            clearInterval(clock);
+            console.log("stop");
+        } }, 200);
+</script>
+</body>
+</html>

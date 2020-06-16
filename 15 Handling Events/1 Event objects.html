@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1 Event objects</title>
+</head>
+<h2>Events called on window object</h2>
+<p>Click this document.</p>
+<p>This page turns violet when you hold the Ctrl-V key.</p>
+<h2>Events called on DOM element</h2>
+<button>Click me any way you want</button>
+<p><a href="https://developer.mozilla.org/">MDN</a></p>
+<script>
+//Events called on window object
+    window.addEventListener("click", () => {
+        console.log("Document clicked");
+    });
+    window.addEventListener("keydown", event => {
+        if (event.key == "v"&& event.ctrlKey) {
+            document.body.style.background = "violet";
+        }
+    });
+    window.addEventListener("keyup", event => {
+        if (event.key == "v"&& event.ctrlKey) {
+            document.body.style.background = "";
+        }
+    });
+//call on DOM element
+    let button = document.querySelector("button");
+    button.addEventListener("mousedown", event => {
+        if (event.button == 0) {
+            console.log("Left button");
+        } else if (event.button == 1) {
+            console.log("Middle button");
+        } else if (event.button == 2) {
+            console.log("Right button");
+        }
+    });
+    let link = document.querySelector("a");
+    link.addEventListener("click", event => {
+        console.log("Nope.");
+        event.preventDefault();
+        });
+</script>
+
+</html>

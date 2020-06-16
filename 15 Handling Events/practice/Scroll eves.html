@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>4 scroll events</title>
+</head>
+<body>
+<style>
+    #progress{
+        border-bottom: 4px solid blue;
+        left:0;
+        top: 0;
+        position: fixed;
+        width:0;
+    }
+</style>
+<div id="progress"></div>
+<script>
+    document.body.appendChild(document.createTextNode(" I am a black * ".repeat(1000)));
+    let bar=document.querySelector("#progress");
+    window.addEventListener("scroll", ()=>{
+        let max = document.body.scrollHeight - innerHeight;
+        bar.style.width= `${(pageYOffset / max) * 100}%`;
+    });
+</script>
+
+</body>
+</html>

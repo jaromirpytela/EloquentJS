@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>8 Debounce keys </title>
+</head>
+<body>
+
+<p>Debounce input - press F12</p>
+<textarea id="keyOutput">Type something here...</textarea>
+<p>Debounce mousemove</p>
+<textarea id="mouseOutput"></textarea>
+
+<script>
+    //Debounce keys + timeout direct start
+    let text = document.querySelector("#keyOutput");
+    let timeout;
+    text.addEventListener("input", () => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => console.log("Typed!"), 700);
+    });
+    //Debounce mouse + timeout postponed
+    let mouseOutput = document.querySelector("#mouseOutput");
+    let scheduled;
+    window.addEventListener("mousemove", event => {
+        if (!scheduled) {
+            setTimeout(() => {
+                mouseOutput.textContent = `Mouse at ${scheduled.pageX}, ${scheduled.pageY}`;
+                scheduled = null;
+            }, 1000);
+        }
+        scheduled = event;
+    });
+</script>
+
+</body>
+</html>

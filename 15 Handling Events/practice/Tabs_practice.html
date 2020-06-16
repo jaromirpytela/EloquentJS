@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabs_practice</title>
+</head>
+
+<body>
+<tab-panel>
+    <div data-tab="one">Tab one</div>
+    <div data-tab="two">Tab two</div>
+    <div data-tab="three">Tab three</div>
+</tab-panel>
+
+<script>
+    function createTabs(node) { //create an array from the nodes
+        let tabs= Array.from(node.children).map(node=>{
+            let button = document.createElement("div");
+            button.textContent=node.getAttribute("data-tab");
+            button.addEventListener("click", ()=>selectTab(tab));
+            let tab = {node, button};
+            return tab;
+        });
+
+    function selectTab(selectedTab) {
+        for (let tab of tabs){
+            let selected = (tab == selectedTab);
+
+        }
+    }
+    }
+
+    createTabs(document.querySelector("tab-panel"));
+</script>
+</body>
+</html>

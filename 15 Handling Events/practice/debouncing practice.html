@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>practice</title>
+</head>
+<body>
+<p>Debouncing keys - press F12</p>
+<textarea id="text">Type something here...</textarea>
+<p>Debouncing mouse</p>
+<textarea id="coords"></textarea>
+<script>
+    // Keys with + timeout direct start
+    let text = document.querySelector("#text");
+    let timeout;
+    text.addEventListener("input", ()=>{
+        clearTimeout(timeout);
+        timeout = setTimeout(()=> console.log ("Typed"), 700);
+    });
+    // Mouse with timeout delay
+    let coords = document.querySelector("#coords");
+    let controller = null;
+    window.addEventListener("mousemove", (event)=> {
+        if (controller != null){
+            setTimeout(()=>{
+                mouseOutput.textContent =`Mouse at ${controller.pageX}, ${controller.pageY}`;
+                controller=null;
+        }, 1600};
+    });
+    controller = event;
+</script>
+
+</body>
+</html>

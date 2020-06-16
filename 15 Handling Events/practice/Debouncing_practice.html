@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>practice</title>
+</head>
+<body>
+<p>Debounce keys</p>
+<textarea id="keyOutput">Type something here...</textarea>
+<p>Debounce mouse</p>
+<textarea id="mouseOutput"></textarea>
+<script>
+    //Debounce keys
+    let text = document.querySelector("#keyOutput");
+    let timeout;
+    text.addEventListener("input", ()=>{
+        clearTimeout(timeout);
+        timeout = setTimeout(()=> console.log("Typed"), 700);
+    });
+    //Debounce mouse
+    let
+</script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tiny level_practice</title>
+</head>
+
+<script src="Tiny.js"></script>
+<link rel="stylesheet" href="../1%20VeryTiny/game.css">
+
+<body>
+<script>
+let simpleLevelPlan = `
+......................
+..#................#..
+..#..............=.#..
+..#.........o.o....#..
+..#.@......#####...#..
+..#####............#..
+......#++++++++++++#..
+......##############..
+......................`;
+let simpleLevel = new Level(simpleLevelPlan);
+console.log(`${simpleLevel.width} by ${simpleLevel.height}`);
+let display = new DOMDisplay(document.body, simpleLevel);
+display.setState(State.start(simpleLevel));
+console.log(simpleLevel)
+</script>
+</body>
+
+</html>
