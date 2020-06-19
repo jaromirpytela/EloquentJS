@@ -25,161 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="Practice_1chessboard">
-      <change afterPath="$PROJECT_DIR$/.idea/EloquentJS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/.idea/13 JavaScript and the Browser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/My home page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/code/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/code/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/1 Finding Elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/2 Changing the document.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/3 Creating nodes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/4 Attributes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/5 Layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/6 Cascading styles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/7 Query selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/8 Positioning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/img/cat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/img/hat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/img/ostrich.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/ElementsByTagName.html" afterPathEscaped="$PROJECT_DIR$/14 The Document Object Model/🎽ElementsByTagName.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/Table.html" afterPathEscaped="$PROJECT_DIR$/14 The Document Object Model/🎽Table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14 The Document Object Model/TheCatsHat.html" afterPathEscaped="$PROJECT_DIR$/14 The Document Object Model/🎽TheCatsHat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/1 Event objects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/1_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/2 Pointer events - clicks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/3 Pointer events - motion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/4 Scroll events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/5 Focus events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/6 Event loop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/7 Timers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/8 Debouncing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/Ex1 Balloon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/Ex2 Mouse trail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/Ex3 Tabs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/code/squareworker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/3mousemotion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/3mousemotion_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/3mousemotion_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/4 scroll events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/5 focus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/5 focus_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/Debouncing_practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/Focus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/Scroll eves.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/Tabs_practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/Timers_practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/debouncing practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/mouseTrail_practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/practice TABS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/practice TABS2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 Handling Events/practice/practice balloon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/Practice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/VeryTiny.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/practice2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/2 Tiny/Tiny.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/2 Tiny/Tiny.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/2 Tiny/game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/APlatformGame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/Ex1 Game over.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/Levels.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/Ex2 Pausing the game/Ex2 Pausing the game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 Project - A platform game/Ex3 A monster/Ex3 A monster.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/chessBoard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/fizzBuzz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/loopingATriangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/2 SOLUTION/ChessBoard.js" afterPathEscaped="$PROJECT_DIR$/2 Program Structure/2 SOLUTION/🎽ChessBoard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/2 SOLUTION/FizzBuzz.js" afterPathEscaped="$PROJECT_DIR$/2 Program Structure/2 SOLUTION/🎽FizzBuzz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/2 SOLUTION/LoopinATriangle.js" afterPathEscaped="$PROJECT_DIR$/2 Program Structure/2 SOLUTION/🎽LoopinATriangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Program Structure/Scratchy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/.idea/3 Functions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/1 minimum.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽1 minimum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/2 recursion.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽2 recursion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/3 beanCounting.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽3 beanCounting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/1 power.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄1 power.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/2 findSolution.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄2 findSolution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/3 printFarmInventory.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄3 printFarmInventory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/1 Minimum.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/🎽1 Minimum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/2 Recursion.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/🎽2 Recursion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/3 BeanCounting.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/🎽3 BeanCounting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/1 Power.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄1 Power.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/2 FindSolution.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄2 FindSolution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/3 PrintFarmInventory.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄3 PrintFarmInventory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 Functions/Scratchy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/.idea/4 Data Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 1 theSumOfARange.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 1 theSumOfARange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 2 reversingAnArray.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 2 reversingAnArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 3 aList.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 3 aList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 4 deepComparison.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 4 deepComparison.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 1 correlations.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 1 correlations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 2 further arayology.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 2 further arayology.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 3 rest parameters.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 3 rest parameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 4 theMathObject.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 4 theMathObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 1 TheSumOfARrange.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 1 TheSumOfARrange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 2 ReversingAnArray.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 2 ReversingAnArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 3 AList.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 3 AList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 4 DeepComparison.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 4 DeepComparison.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 1 Correllations.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 1 Correllations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 2 Further arayology.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 2 Further arayology.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 3 Rest parameters.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 3 Rest parameters.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 4 TheMathObject.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 4 TheMathObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Data Structures/Scratchy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/ 1 flattening.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 1 flattening.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/ 2 yourOwnLoop.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 2 yourOwnLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/ 3 everything.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 3 everything.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/ 4 dominantWritingDirection.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 4 dominantWritingDirection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/ 1 Flattening.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 1 Flattening.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/ 2 YourOwnLoop.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 2 YourOwnLoop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/ 3 Everything.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 3 Everything.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/ 4 DominantWritingDirection.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 4 DominantWritingDirection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/Inheritance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/MapMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/aVectorType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/borrowingAmethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/groups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/maps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/prototypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/settersAndStatics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/symbolIteratorData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/symbolIteratorString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/AVectorType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/BorrowingAMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/Classes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/Groups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/Inheritance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/MapMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/MapObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/Prototypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/SettersAndStatics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/SymbolIteratorData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 The secret life of objects/SymbolIteratorString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 Project - A Robot/Robot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/4 data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/5 repeat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/5 textscripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/7 animation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/journal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/range + sum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Other code/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/2_fizzBuzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/2_fizzBuzz.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +67,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -238,10 +85,7 @@
       <recent name="C:\JavaScript\EloquentJS\4 Data Structures\4 PRACTICE" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.1_chessboard.js">
-    <configuration name="🎽 4 DeepComparison.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="🎽 4 DeepComparison.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 SOLUTION">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.2_fizzBuzz.js">
     <configuration name="🎽 4 DominantWritingDirection.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="🎽 4 DominantWritingDirection.js" working-dir="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION">
       <method v="2" />
     </configuration>
@@ -251,23 +95,26 @@
     <configuration name="1_chessboard.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_chessboard.js" working-dir="$PROJECT_DIR$/2 Program Structure/2 PRACTICE">
       <method v="2" />
     </configuration>
+    <configuration name="2_fizzBuzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/2_fizzBuzz.js" working-dir="$PROJECT_DIR$/2 Program Structure/2 PRACTICE">
+      <method v="2" />
+    </configuration>
     <configuration name="Examples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Examples.js" working-dir="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.1_chessboard.js" />
       <item itemvalue="Node.js.Examples.js" />
-      <item itemvalue="Node.js.🎽 4 DeepComparison.js" />
       <item itemvalue="Node.js.🎽 4 deepComparison.js" />
       <item itemvalue="Node.js.🎽 4 DominantWritingDirection.js" />
+      <item itemvalue="Node.js.2_fizzBuzz.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.2_fizzBuzz.js" />
         <item itemvalue="Node.js.1_chessboard.js" />
         <item itemvalue="Node.js.🎽 4 DominantWritingDirection.js" />
         <item itemvalue="Node.js.Examples.js" />
         <item itemvalue="Node.js.🎽 4 deepComparison.js" />
-        <item itemvalue="Node.js.🎽 4 DeepComparison.js" />
       </list>
     </recent_temporary>
   </component>
@@ -352,7 +199,17 @@
       <workItem from="1592485759636" duration="654000" />
       <workItem from="1592508692891" duration="42000" />
       <workItem from="1592548699303" duration="4530000" />
+      <workItem from="1592565372885" duration="639000" />
+      <workItem from="1592571888603" duration="8380000" />
     </task>
+    <task id="LOCAL-00001" summary="Practice_1chessboard">
+      <created>1592565482978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592565482978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,30 +249,34 @@
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="162" y="127" width="1658" height="853" key="DiffContextDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1592557054564" />
-    <state width="1835" height="275" key="GridCell.Tab.0.bottom" timestamp="1592557690004">
+    <state width="1858" height="375" key="GridCell.Tab.0.bottom" timestamp="1592581081296">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="275" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690004" />
-    <state width="1835" height="275" key="GridCell.Tab.0.center" timestamp="1592557690003">
+    <state width="1858" height="375" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1592581081296" />
+    <state width="1858" height="375" key="GridCell.Tab.0.center" timestamp="1592581081296">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="275" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690003" />
-    <state width="1835" height="275" key="GridCell.Tab.0.left" timestamp="1592557690003">
+    <state width="1858" height="375" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1592581081296" />
+    <state width="1858" height="375" key="GridCell.Tab.0.left" timestamp="1592581081295">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="275" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690003" />
-    <state width="1835" height="275" key="GridCell.Tab.0.right" timestamp="1592557690003">
+    <state width="1858" height="375" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1592581081295" />
+    <state width="1858" height="375" key="GridCell.Tab.0.right" timestamp="1592581081296">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="275" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690003" />
-    <state x="480" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1592557054164">
+    <state width="1858" height="375" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1592581081296" />
+    <state x="480" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1592572215228">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="480" y="188" width="1022" height="737" key="SettingsEditor/62.27.1858.1053@62.27.1858.1053" timestamp="1592557054164" />
-    <state x="762" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592557573047">
+    <state x="480" y="188" width="1022" height="737" key="SettingsEditor/62.27.1858.1053@62.27.1858.1053" timestamp="1592572215228" />
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1592565613376">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="762" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.27.1858.1053@62.27.1858.1053" timestamp="1592557573047" />
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053@62.27.1858.1053" timestamp="1592565613376" />
+    <state x="762" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592565529811">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="762" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.27.1858.1053@62.27.1858.1053" timestamp="1592565529811" />
     <state x="711" y="368" width="550" height="384" key="jetbrains.nodejs.interpreters-dialog" timestamp="1592549836992">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>

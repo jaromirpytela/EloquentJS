@@ -8,6 +8,12 @@ for numbers divisible by only one of those).
 
 Your code here. */
 
+for (let i = 0; i < 100; i++) {
+    let value="";
+    if (i % 3 === 0) value ="Fizz"
+    if (i % 5 === 0) value +="Buzz"
 
+    console.log(value || i);
+}
 
 
