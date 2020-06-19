@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="First commit of the project">
+    <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="Practice_1chessboard">
       <change afterPath="$PROJECT_DIR$/.idea/EloquentJS.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -163,198 +186,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaScript">
-      <favorite_root url="file://$PROJECT_DIR$" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-        <favorite_root url="file://$PROJECT_DIR$/.idea" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/.idea/encodings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/.idea/EloquentJS.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/Other code" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/Other code/4 data.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/Other code/journal.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/Other code/scripts.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/Other code/5 repeat.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/Other code/7 animation.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/Other code/range + sum.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/Other code/5 textscripts.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/PRACTICE" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/3 Functions/PRACTICE/minimum.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/3 Functions/PRACTICE/📄 power.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/3 Functions/PRACTICE/recursion.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/3 Functions/PRACTICE/beanCounting.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK/📄1 Power.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK/🎽1 Minimum.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK/🎽2 Recursion.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK/🎽3 BeanCounting.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK/📄2 FindSolution.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/3 Functions/3 BOOK/📄3 PrintFarmInventory.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 BOOK" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/AList.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 PRACTICE" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 PRACTICE/aList.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 PRACTICE/deepComparison.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 PRACTICE/theSumOfARange.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 PRACTICE/reversingAnArray.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/4 📝 DeepComparison.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/1 📝 TheSumOfARrange.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/4 Data Structures/2 📝 ReversingAnArray.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/package-lock.json" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        <favorite_root url="file://$PROJECT_DIR$/15 Handling Events" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/code" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/code/squareworker.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/1_1.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/Focus.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/5 focus.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/5 focus_1.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/Scroll eves.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/3mousemotion.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/practice TABS.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/Tabs_practice.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/3mousemotion_2.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/3mousemotion_3.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/practice TABS2.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/4 scroll events.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/Timers_practice.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/practice balloon.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/debouncing practice.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/Debouncing_practice.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/practice/mouseTrail_practice.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/7 Timers.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/Ex3 Tabs.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/Ex1 Balloon.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/6 Event loop.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/8 Debouncing.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/5 Focus events.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/1 Event objects.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/4 Scroll events.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/Ex2 Mouse trail.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/2 Pointer events - clicks.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/15 Handling Events/3 Pointer events - motion.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/2 Program Structure" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/2 PRACTICE" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/2 PRACTICE/fizzBuzz.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/2 PRACTICE/chessBoard.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/2 PRACTICE/loopingATriangle.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/🎽FizzBuzz.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/🎽ChessBoard.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/2 Program Structure/🎽LoopinATriangle.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/7 Project - A Robot" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/7 Project - A Robot/Robot.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/everything.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/flattening.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/yourOwnLoop.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/dominantWritingDirection.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/Everything.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/Flattening.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/YourOwnLoop.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/5 Higher Order Functions/DominantWritingDirection.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/img" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/img/cat.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/img/hat.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/img/ostrich.png" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/🎽Table.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/5 Layout.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/4 Attributes.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/🎽TheCatsHat.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/8 Positioning.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/3 Creating nodes.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/7 Query selector.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/1 Finding Elements.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/6 Cascading styles.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/🎽ElementsByTagName.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/14 The Document Object Model/2 Changing the document.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/2 Tiny" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/2 Tiny/Tiny.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/2 Tiny/game.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/2 Tiny/Tiny.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/game.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/Practice.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/VeryTiny.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/1 VeryTiny/practice2.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/game.css" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/Levels.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/APlatformGame.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex1 Game over/Ex1 Game over.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex3 A monster" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex3 A monster/Ex3 A monster.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex2 Pausing the game" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/16 Project - A platform game/Ex2 Pausing the game/Ex2 Pausing the game.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/Groups.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/maps.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/groups.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/classes.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/MapMethod.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/prototypes.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/aVectorType.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/Inheritance.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/borrowingAmethod.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/settersAndStatics.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/symbolIteratorData.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/symbolIteratorString.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/Classes.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/MapMethod.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/MapObject.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/Prototypes.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/AVectorType.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/Inheritance.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/BorrowingAMethod.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/SettersAndStatics.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/SymbolIteratorData.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          <favorite_root url="file://$PROJECT_DIR$/6 The secret life of objects/SymbolIteratorString.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-        <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-          <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/code" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/code/alert.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/code/script.js" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/.idea" module="EloquentJS" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/.idea/encodings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-            <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/.idea/13 JavaScript and the Browser.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-          </favorite_root>
-          <favorite_root url="file://$PROJECT_DIR$/13 JavaScript and the Browser/My home page.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
-        </favorite_root>
-      </favorite_root>
-    </favorites_list>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -385,9 +216,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -405,10 +238,7 @@
       <recent name="C:\JavaScript\EloquentJS\4 Data Structures\4 PRACTICE" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.🎽 4 DominantWritingDirection.js">
-    <configuration name="🎽 2 reversingAnArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="🎽 2 reversingAnArray.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 PRACTICE">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.1_chessboard.js">
     <configuration name="🎽 4 DeepComparison.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="🎽 4 DeepComparison.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 SOLUTION">
       <method v="2" />
     </configuration>
@@ -418,16 +248,26 @@
     <configuration name="🎽 4 deepComparison.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="🎽 4 deepComparison.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 PRACTICE">
       <method v="2" />
     </configuration>
+    <configuration name="1_chessboard.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="1_chessboard.js" working-dir="$PROJECT_DIR$/2 Program Structure/2 PRACTICE">
+      <method v="2" />
+    </configuration>
     <configuration name="Examples.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Examples.js" working-dir="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.1_chessboard.js" />
+      <item itemvalue="Node.js.Examples.js" />
+      <item itemvalue="Node.js.🎽 4 DeepComparison.js" />
+      <item itemvalue="Node.js.🎽 4 deepComparison.js" />
+      <item itemvalue="Node.js.🎽 4 DominantWritingDirection.js" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1_chessboard.js" />
         <item itemvalue="Node.js.🎽 4 DominantWritingDirection.js" />
         <item itemvalue="Node.js.Examples.js" />
         <item itemvalue="Node.js.🎽 4 deepComparison.js" />
         <item itemvalue="Node.js.🎽 4 DeepComparison.js" />
-        <item itemvalue="Node.js.🎽 2 reversingAnArray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -506,21 +346,80 @@
       <workItem from="1592238450602" duration="22000" />
       <workItem from="1592238518048" duration="143000" />
       <workItem from="1592329352623" duration="336000" />
+      <workItem from="1592483121384" duration="179000" />
+      <workItem from="1592484013388" duration="71000" />
+      <workItem from="1592484733897" duration="495000" />
+      <workItem from="1592485759636" duration="654000" />
+      <workItem from="1592508692891" duration="42000" />
+      <workItem from="1592548699303" duration="4530000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit of the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit of the project" />
+    <MESSAGE value="Practice_1chessboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice_1chessboard" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="653" y="210" width="666" height="694" key="#1_chessboard.js" timestamp="1592549305355">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="653" y="210" width="666" height="694" key="#1_chessboard.js/62.27.1858.1053@62.27.1858.1053" timestamp="1592549305355" />
+    <state x="449" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592549847865">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="449" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1592549847865" />
     <state x="426" y="27" key="CommitChangelistDialog2" timestamp="1592238622531">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
     <state x="426" y="27" key="CommitChangelistDialog2/66.0.1470.864@66.0.1470.864" timestamp="1592238622531" />
+    <state x="162" y="127" width="1658" height="853" key="DiffContextDialog" timestamp="1592557054564">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="162" y="127" width="1658" height="853" key="DiffContextDialog/62.27.1858.1053@62.27.1858.1053" timestamp="1592557054564" />
+    <state width="1835" height="275" key="GridCell.Tab.0.bottom" timestamp="1592557690004">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="275" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690004" />
+    <state width="1835" height="275" key="GridCell.Tab.0.center" timestamp="1592557690003">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="275" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690003" />
+    <state width="1835" height="275" key="GridCell.Tab.0.left" timestamp="1592557690003">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="275" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690003" />
+    <state width="1835" height="275" key="GridCell.Tab.0.right" timestamp="1592557690003">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="275" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1592557690003" />
+    <state x="480" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1592557054164">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="480" y="188" width="1022" height="737" key="SettingsEditor/62.27.1858.1053@62.27.1858.1053" timestamp="1592557054164" />
+    <state x="762" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592557573047">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="762" y="468" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.27.1858.1053@62.27.1858.1053" timestamp="1592557573047" />
+    <state x="711" y="368" width="550" height="384" key="jetbrains.nodejs.interpreters-dialog" timestamp="1592549836992">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="711" y="368" width="550" height="384" key="jetbrains.nodejs.interpreters-dialog/62.27.1858.1053@62.27.1858.1053" timestamp="1592549836992" />
   </component>
   <component name="masterDetails">
     <states>

@@ -18,5 +18,15 @@ When you have a program that generates this pattern, define a binding size
 of the given width and height.
 
 Your code here. */
-
-
+let size = 8;
+let output = " ";
+for (let y=0; y<size;y++){
+    for (let x=0; x<size; x++){
+    if ((x+y)%2===0) {
+        output += "x"
+    }
+    else output += " ";
+    }
+output +="\n"
+}
+console.log(output);
