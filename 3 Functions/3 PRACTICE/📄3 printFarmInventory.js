@@ -1,48 +1,15 @@
+/* Print function printZeroPaddedWithLabel, which conflates three things — printing, zero-padding, and adding a label—into a single function.
+*/
 
-function printFarmInventory_1(cow, chicken) {
-    let cowString = String(cow);
-    //padding with 0
-    while (cowString.length < 3) {
-        cowString = "0" + cowString;
-    }
-    console.log(`${cowString} Cows`);
+printFarmInventory_1(7, 11, 3);
+// 007 Cows
+// 016 Chickens
+// 003 Pigs
 
-    let chickenString = String(chicken);
-    while (chickenString.length < 3) {
-        chickenString = "0" + chickenString;
-    }
-    console.log(`${chickenString} chicken`);
-}
 
-printFarmInventory_1(5, 8);
+/* A function with a nice, obvious name like zeroPad makes it easier for someone who reads the code to figure out what it does. And such a function is useful in more situations than just this specific program. For example, you could use it to help print nicely aligned tables of numbers. */
 
-function addZeroWithLabel(number, label) {
-    let numberString= String(number);
-    while (numberString.length < 3) {
-        numberString = "0" + numberString;
-    }
-    console.log(`${numberString} ${label}`);
-}
-
-function printFarmInventory_2(cowNo, chickenNo, pigNo) {
-    addZeroWithLabel(cowNo, "cows");
-    addZeroWithLabel(chickenNo, "chickens");
-    addZeroWithLabel(pigNo, "pigs");
-}
-printFarmInventory_2(1,2,3);
-
-function addZeros(number, size){
-    let numberString = String(number);
-    while(numberString.length<size){
-        numberString="0" + numberString;
-    }
-    return numberString;
-}
-
-function printFarmInventory3(cows, chicken, pigs) {
-    console.log(`${addZeros(cows, 3)} Cows`);
-    console.log(`${addZeros(chicken, 3)} Chicken`);
-    console.log(`${addZeros(pigs, 3)} Pigs`);
-}
-
-printFarmInventory3(2,3,4);
+printFarmInventory_2(7,11,3);
+// 007 Cows
+// 016 Chickens
+// 003 Pigs

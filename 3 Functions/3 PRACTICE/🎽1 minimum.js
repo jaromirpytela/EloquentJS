@@ -3,7 +3,6 @@ The previous chapter introduced the standard function Math.min that returns its 
 
 Your code here. */
 
-
 console.log(min(0, 10));
 // → 0
 console.log(min(0, -10));
