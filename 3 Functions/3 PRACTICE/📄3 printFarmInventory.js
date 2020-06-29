@@ -1,3 +1,4 @@
+
 function printFarmInventory_1(cow, chicken) {
     let cowString = String(cow);
     //padding with 0
