@@ -93,11 +93,14 @@
       <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\3 Functions\3 BOOK" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.📄1 Power.js">
+  <component name="RunManager" selected="Node.js.📄2 FindSolution.js">
     <configuration name="📄1 Power.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄1 Power.js" working-dir="$PROJECT_DIR$/3 Functions/3 SOLUTION">
       <method v="2" />
     </configuration>
-    <configuration name="1_chessboard.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/1_chessboard.js" working-dir="$PROJECT_DIR$/2 Program Structure/2 PRACTICE">
+    <configuration name="📄2 FindSolution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄2 FindSolution.js" working-dir="$PROJECT_DIR$/3 Functions/3 SOLUTION">
+      <method v="2" />
+    </configuration>
+    <configuration name="📄2 findSolution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄2 findSolution.js" working-dir="$PROJECT_DIR$/3 Functions/3 PRACTICE">
       <method v="2" />
     </configuration>
     <configuration name="2_fizzBuzz.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/2_fizzBuzz.js" working-dir="$PROJECT_DIR$/2 Program Structure/2 PRACTICE">
@@ -106,23 +109,20 @@
     <configuration name="📄3 printFarmInventory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄3 printFarmInventory.js" working-dir="$PROJECT_DIR$/3 Functions/3 PRACTICE">
       <method v="2" />
     </configuration>
-    <configuration name="3_ loopingATriangle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2 Program Structure/2 PRACTICE/3_ loopingATriangle.js" working-dir="$PROJECT_DIR$/2 Program Structure/2 PRACTICE">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Node.js.1_chessboard.js" />
       <item itemvalue="Node.js.2_fizzBuzz.js" />
-      <item itemvalue="Node.js.3_ loopingATriangle.js" />
       <item itemvalue="Node.js.📄3 printFarmInventory.js" />
       <item itemvalue="Node.js.📄1 Power.js" />
+      <item itemvalue="Node.js.📄2 findSolution.js" />
+      <item itemvalue="Node.js.📄2 FindSolution.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.📄2 FindSolution.js" />
+        <item itemvalue="Node.js.📄2 findSolution.js" />
         <item itemvalue="Node.js.📄1 Power.js" />
         <item itemvalue="Node.js.📄3 printFarmInventory.js" />
         <item itemvalue="Node.js.2_fizzBuzz.js" />
-        <item itemvalue="Node.js.1_chessboard.js" />
-        <item itemvalue="Node.js.3_ loopingATriangle.js" />
       </list>
     </recent_temporary>
   </component>
