@@ -1,10 +1,12 @@
+/* If you don’t provide the second argument, it will default to two. The function calls itself multiple times with ever smaller exponents to achieve the
+repeated multiplication.
+*/
 
+console.log(power_1(4));
+console.log(power_1(2, 6));
 
-const power=function(base, exponent){
-let result=1;
-    for(let i=0; i<exponent; i++){
-        result*=base;
-    }
-    return result;
-}
-console.log(power(2,10));
+/* Recursion allows some functions to be written in a different style.  The function calls itself multiple times with ever smaller exponents to achieve the
+repeated multiplication.
+*/
+
+console.log(power_2(2, 3));
