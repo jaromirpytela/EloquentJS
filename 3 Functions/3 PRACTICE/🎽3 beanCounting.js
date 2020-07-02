@@ -7,17 +7,7 @@ string.
 
  Your code here. */
 
-function countBs(text, ch){
-    let record=0;
-    for (let i=0; i<text.length; i++){
-        if (text[i]===ch){
-            record+=1;
-        }
-    }
-    return record;
-}
-
 console.log(countBs("BBC", "B"));
 // → 2
-//console.log(countChar("kakkerlak", "k"));
+console.log(countChar("kakkerlak", "k"));
 // → 4

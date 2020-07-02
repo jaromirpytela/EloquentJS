@@ -14,6 +14,3 @@ It may be useful to know that you can find the length of a string by writing
 
 Your code here. */
 
-for (let output="#"; output.length<8; output+="#"){
-        console.log(output);
-}

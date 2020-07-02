@@ -1,20 +1,6 @@
+/* The while loops keep adding zeros in front of the number strings until they are at least three characters long. It conflates three things—printing, zero-padding, and adding a label—into a single function.
 
-function printFarmInventory_1(cow, chicken) {
-    let cowString = String(cow);
-    //padding with 0
-    while (cowString.length < 3) {
-        cowString = "0" + cowString;
-    }
-    console.log(`${cowString} Cows`);
-
-    let chickenString = String(chicken);
-    while (chickenString.length < 3) {
-        chickenString = "0" + chickenString;
-    }
-    console.log(`${chickenString} chicken`);
-}
-
-printFarmInventory_1(5, 8);
+Your code here */
 
 function addZeroWithLabel(number, label) {
     let numberString= String(number);
@@ -24,14 +10,19 @@ function addZeroWithLabel(number, label) {
     console.log(`${numberString} ${label}`);
 }
 
-function printFarmInventory_2(cowNo, chickenNo, pigNo) {
+function printFarmInventory_1(cowNo, chickenNo, pigNo) {
     addZeroWithLabel(cowNo, "cows");
     addZeroWithLabel(chickenNo, "chickens");
     addZeroWithLabel(pigNo, "pigs");
 }
-printFarmInventory_2(1,2,3);
+printFarmInventory_1(1,2,3);
 
-function addZeros(number, size){
+
+/* A function with a nice, obvious name like zeroPad makes it easier for someone who reads the code to figure out what it does. And such a function is useful in more situations than just this specific program.
+
+Your code here */
+
+function zeroPad(number, size){
     let numberString = String(number);
     while(numberString.length<size){
         numberString="0" + numberString;
@@ -39,10 +30,10 @@ function addZeros(number, size){
     return numberString;
 }
 
-function printFarmInventory3(cows, chicken, pigs) {
-    console.log(`${addZeros(cows, 3)} Cows`);
-    console.log(`${addZeros(chicken, 3)} Chicken`);
-    console.log(`${addZeros(pigs, 3)} Pigs`);
+function printFarmInventory2(cows, chicken, pigs) {
+    console.log(`${zeroPad(cows, 3)} Cows`);
+    console.log(`${zeroPad(chicken, 3)} Chicken`);
+    console.log(`${zeroPad(pigs, 3)} Pigs`);
 }
 
-printFarmInventory3(2,3,4);
+printFarmInventory2(2,3,4);
