@@ -1,38 +1,34 @@
-/*It conflates three things—printing, zero-padding, and adding a label—into a single function. That name, printZeroPaddedWithLabel, is a little awkward. It conflates three things—printing, zero-padding, and adding a label—into a single function.
-Your code here.
-*/
-function addZeroWithLabel(number, label) {
-    let numberString= String(number);
-    while (numberString.length < 3) {
-        numberString = "0" + numberString;
-    }
-    console.log(`${numberString} ${label}`);
-}
-
-function printFarmInventory_1(cowNo, chickenNo, pigNo) {
-    addZeroWithLabel(cowNo, "cows");
-    addZeroWithLabel(chickenNo, "chickens");
-    addZeroWithLabel(pigNo, "pigs");
-}
-printFarmInventory_1(1,2,3);
-
-
-/*A function with a nice, obvious name like zeroPad makes it easier for someone who reads the code to figure out what it does. And such a function is useful in more situations than just this specific program.
+/* Function addZeroWithLabel conflates three things — printing, zero-padding, and adding a label — into a single function.
 Your code here
 */
-
-function zeroPad(number, width) {
-    let string = String(number);
-    while (string.length < width) {
-        string = "0" + string;
+function addZeroWithLabel(number, label) {
+    let toString = String(number);
+    while (toString.length < 3) {
+        toString = "0"+toString;
     }
-    return string;
+    console.log(`${toString} ${label}`);
 }
-
-function printFarmInventory2(cows, chickens, pigs) {
-    console.log(`${zeroPad(cows, 3)} Cows`);
-    console.log(`${zeroPad(chickens, 3)} Chickens`);
-    console.log(`${zeroPad(pigs, 3)} Pigs`);
+function printFarmInventory_1(cowNo, chickenNo, pigNo) {
+    addZeroWithLabel(cowNo, "Cows");
+    addZeroWithLabel(chickenNo, "Chicken");
+    addZeroWithLabel(pigNo, "Pigs");
 }
+printFarmInventory_1(1, 2, 3);
 
+/* Function zeroPad is useful in more situations. It only prints the "number" argument and adds zeroes to reach the "width", which is passed as another argument.
+Your code here
+*/
+function zeroPad(number, width){
+    let toString=String(number);
+    while(toString.length<3){
+        toString="0"+toString;
+    }
+    return toString;
+}
+function printFarmInventory2(CowNo, ChickenNo, PigNo){
+     console.log(zeroPad(CowNo, 3)+" Cows");
+     console.log(zeroPad(ChickenNo, 3)+" Chicken");
+     console.log(zeroPad(PigNo, 3)+" Pigs");
+
+}
 printFarmInventory2(7, 16, 3);

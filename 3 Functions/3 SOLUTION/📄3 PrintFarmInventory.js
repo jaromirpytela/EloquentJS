@@ -1,9 +1,9 @@
 function addZeroWithLabel(number, label) {
-    let numberString= String(number);
-    while (numberString.length < 3) {
-        numberString = "0" + numberString;
+    let toString= String(number);
+    while (toString.length < 3) {
+        toString = "0" + toString;
     }
-    console.log(`${numberString} ${label}`);
+    console.log(`${toString+" "+label}`);
 }
 
 function printFarmInventory_1(cowNo, chickenNo, pigNo) {
@@ -12,7 +12,6 @@ function printFarmInventory_1(cowNo, chickenNo, pigNo) {
     addZeroWithLabel(pigNo, "pigs");
 }
 printFarmInventory_1(1,2,3);
-printFarmInventory2(7, 11, 3);
 
 function zeroPad(number, width) {
     let string = String(number);

@@ -1,18 +1,9 @@
-function countChar(string, ch) {
-    let counted = 0;
-    for (let i = 0; i < string.length; i++) {
-        if (string[i] == ch) {
-            counted += 1;
-        }
+function countChar(word, letter){
+    let counter =0;
+    for(let i=0; i<(word.length-1); i++){
+        if(word[i]===letter) counter ++;
     }
-    return counted;
+    return counter;
 }
 
-function countBs(string) {
-    return countChar(string, "B");
-}
-
-console.log(countBs("BBC"));
-// → 2
-console.log(countChar("kakkerlak", "k"));
-// → 4
+console.log(countChar("BBC", "B"));
