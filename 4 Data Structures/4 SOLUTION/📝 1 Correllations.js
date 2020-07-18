@@ -17,18 +17,16 @@ var JOURNAL = [
     {"events": ["pizza", "brushed teeth", "work"], "squirrel": true},
     {"events": ["pizza", "brushed teeth", "running", "work"], "squirrel": false},
 ];
-// 1) Start up a journal. Instead of declaring properties like events: events, just give a property name. This is a short-hand that means the same thing—if a property name in curly brace notation isn’t followed by a value, its value is taken from the binding with the same name.
 
 function addEntry(events, squirrel) {
     JOURNAL.push({events, squirrel});
     return JOURNAL;
 }
 
-addEntry(["work", "touched tree", "pizza", "running","television"], false);
+addEntry(["work", "touched tree", "pizza", "running", "television"], false);
 console.log(JOURNAL);
-console.log("**************************************");
 
-// 2) Extract a two-by-two table for a specific event from the journal, loop over all the entries and tally how many times the event occurs in relation to squirrel transformations. Arrays have an includes method that checks whether a given value exists in the array.
+// Extract a two-by-two table for a specific event from the journal, loop over all the entries and tally how many times the event occurs in relation to squirrel transformations. Arrays have an includes method that checks whether a given value exists in the array.
 
 function tableFor(event, journal) {
     let table = [0, 0, 0, 0];
@@ -37,15 +35,12 @@ function tableFor(event, journal) {
         let position = 0;
         if (entry.events.includes(event)) position += 1;
         if (entry.squirrel) position += 2;
-        table[position]+=1;
+        table[position] += 1;
     }
     return table;
 };
 
 console.log(tableFor("pizza", JOURNAL));
-console.log("**************************************");
-
-// 3) Compute and show correlation (function phi) for every type of event that occurs in the data set. To do that, create function journalEvents to find every type of event by going over all the events, and adding those that aren’t already in there to the events array.
 
 function phi(table) {
     return (table[3] * table[0] - table[2] * table[1]) /
@@ -54,15 +49,15 @@ function phi(table) {
 }
 
 function journalEvents(journal) {
-    let events=[];
-    for(let entry of journal){
-        for (let event of entry.events){
+    let events = [];
+    for (let entry of journal) {
+        for (let event of entry.events) {
             if (!events.includes(event)) events.push(event);
         }
     }
     return events;
 }
 
-for (let event of journalEvents(JOURNAL)){
-    console.log(event + ":", phi(tableFor("pizza", JOURNAL)));
+for (let event of journalEvents(JOURNAL)) {
+    console.log(event + ":", phi(tableFor(event, JOURNAL)));
 }

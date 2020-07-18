@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="E-books" />
+    <orderEntry type="module" module-name="Documents" />
+    <orderEntry type="module" module-name="E-books" />
   </component>
 </module>

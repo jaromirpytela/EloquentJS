@@ -1,9 +1,8 @@
 // Values of type string, number, and Boolean are not objects. But these types do have built-in properties.
 
-// 1. Create "nut" from "coconut"
 console.log("coconuts".slice(4, 7));
 
-// 2. Create remove function using slice property. Remove [a, b, d, e] from ["a", "b", "c", "d", "e"].
+
 function remove(array, index) {
     return array.slice(0, index).concat(array.slice(index + 1));
 }

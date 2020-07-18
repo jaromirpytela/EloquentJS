@@ -17,23 +17,68 @@ var JOURNAL = [
     {"events": ["pizza", "brushed teeth", "work"], "squirrel": true},
     {"events": ["pizza", "brushed teeth", "running", "work"], "squirrel": false},
 ];
-// 1) Start up a journal. Instead of declaring properties like events: events, just give a property name. This is a short-hand that means the same thing—if a property name in curly brace notation isn’t followed by a value, its value is taken from the binding with the same name.
 
-addEntry(["work", "touched tree", "pizza", "running","television"], false);
+// Add entry to the JOURNAL. Instead of declaring properties like events: events, just give a property name. This is a short-hand that means the same thing — if a property name in curly brace notation isn’t followed by a value, its value is taken from the binding with the same name.
 
-console.log("**************************************");
+function addEntry(events, squirrel) {
+    JOURNAL.push({events, squirrel});
+    return JOURNAL;
+}
 
-// 2) Extract a two-by-two table for a specific event from the journal, loop over all the entries and tally how many times the event occurs in relation to squirrel transformations. Arrays have an includes method that checks whether a given value exists in the array.
+addEntry(["work", "touched tree", "pizza", "running", "television"], false);
+console.log(JOURNAL);
+
+/* Extract a two-by-two table [0, 1, 2, 3] of a specific event from the journal.
+0 no event, no transformation,
+1 event, no transformation,
+2 no event, and transformation
+3 event, transformation
+Loop over all the entries and tally how many times the event occurs in relation to transformations.
+
+Your code here
+*/
+function tableFor(event, journal){
+    let table = [0,0,0,0];
+    let position=0;
+    for (let i=0; i<journal.length; i++){
+        let entry=journal[i];
+        let position =0;
+        if (entry.events.includes(event)) position +=1;
+        if (entry.squirrel) position +=2;
+        table[position]+=1;
+
+    }
+    return table;
+}
 
 console.log(tableFor("pizza", JOURNAL));
-console.log("**************************************");
 
-// 3) Compute and show correlation (function phi) for every type of event that occurs in the data set. To do that, create function journalEvents to find every type of event by going over all the events, and adding those that aren’t already in there to the events array.
-
+/* Compute and show correlation (function phi) for every type of event that occurs in the data set. To do that, create function journalEvents to find every type of event by going over all the events, and adding those that aren’t already in there to the events array.
+Your code here
+*/
 function phi(table) {
     return (table[3] * table[0] - table[2] * table[1]) /
         Math.sqrt((table[2] + table[3]) * (table[0] + table[1]) *
             (table[1] + table[3]) * (table[0] + table[2]));
 }
+
+function journalEvents(journal){
+    let events=[];
+    for (let entry of journal){
+        for(let event of entry.events){
+            if(!events.includes(event)){
+                events.push(event);
+            }
+        }
+    }
+    return events;
+}
+
+for (let event of journalEvents(JOURNAL)){
+console.log(event+" ", phi(tableFor(event,JOURNAL)));
+}
+
+
+
 
 
