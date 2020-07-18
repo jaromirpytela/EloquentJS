@@ -24,17 +24,30 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="First commit of the project">
+    <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="Function section 3 preparation - final2">
+      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 2 furtherArayology.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 2 furtherArayology.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 4 DeepEqual.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 4 DeepEqual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EloquentJS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EloquentJS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 PRACTICE/1 minimum.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽1 minimum.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/1 minimum.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽1 minimum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 PRACTICE/2 recursion.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽2 recursion.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/2 recursion.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽2 recursion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 PRACTICE/3 beanCounting.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽3 beanCounting.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/3 beanCounting.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/🎽3 beanCounting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 PRACTICE/1 power.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄1 power.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/1 power.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄1 power.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3 Functions/3 PRACTICE/2 findSolution.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄2 findSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/2 findSolution.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄2 findSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 PRACTICE/3 printFarmInventory.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄3 printFarmInventory.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 PRACTICE/3 printFarmInventory.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄3 printFarmInventory.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 SOLUTION/3 BeanCounting.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/🎽3 BeanCounting.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/3 BeanCounting.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/🎽3 BeanCounting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 SOLUTION/2 FindSolution.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄2 FindSolution.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/2 FindSolution.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄2 FindSolution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Functions/3 SOLUTION/3 PrintFarmInventory.js" beforePathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄3 PrintFarmInventory.js" beforeDir="false" afterPath="$PROJECT_DIR$/3 Functions/3 SOLUTION/3 PrintFarmInventory.js" afterPathEscaped="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄3 PrintFarmInventory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 1 theSumOfARange.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 1 theSumOfARange.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 1 theSumOfARange.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 1 theSumOfARange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 2 reversingAnArray.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 2 reversingAnArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 2 reversingAnArray.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 2 reversingAnArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 3 aList.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 3 aList.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 3 aList.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 3 aList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 4 deepComparison.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 4 deepComparison.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 1 correlations.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 1 correlations.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 1 correlations.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 1 correlations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 2 further arayology.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 2 further arayology.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 3 rest parameters.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 3 rest parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 3 restParameters.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 3 restParameters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 4 theMathObject.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 4 theMathObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 4 theMathObject.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 4 theMathObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 1 TheSumOfARrange.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 1 TheSumOfARrange.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 1 TheSumOfARrange.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 1 TheSumOfARrange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 2 ReversingAnArray.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 2 ReversingAnArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 2 ReversingAnArray.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 2 ReversingAnArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 3 AList.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 3 AList.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 3 AList.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 3 AList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 4 DeepComparison.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/🎽 4 DeepComparison.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/ 4 deepEqual.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/🎽 4 deepEqual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 1 Correllations.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 1 Correllations.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 1 Correllations.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 1 Correllations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 2 Further arayology.js" beforePathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 2 Further arayology.js" beforeDir="false" afterPath="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/ 2 Further arayology.js" afterPathEscaped="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 2 Further arayology.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/ 1 flattening.js" beforePathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 1 flattening.js" beforeDir="false" afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/ 1 flattening.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 1 flattening.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/ 1 Flattening.js" beforePathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 1 Flattening.js" beforeDir="false" afterPath="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/ 1 Flattening.js" afterPathEscaped="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 1 Flattening.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +79,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/E-books" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,7 +88,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -93,36 +106,36 @@
       <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\3 Functions\3 BOOK" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.📄2 findSolution.js">
-    <configuration name="📄1 power.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄1 power.js" working-dir="$PROJECT_DIR$/3 Functions/3 PRACTICE">
+  <component name="RunManager" selected="Node.js.🎽 1 flattening.js">
+    <configuration name="🎽 1 Flattening.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION/🎽 1 Flattening.js" working-dir="$PROJECT_DIR$/5 Higher Order Functions/5 SOLUTION">
       <method v="2" />
     </configuration>
-    <configuration name="📄2 FindSolution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄2 FindSolution.js" working-dir="$PROJECT_DIR$/3 Functions/3 SOLUTION">
+    <configuration name="🎽 1 flattening.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE/🎽 1 flattening.js" working-dir="$PROJECT_DIR$/5 Higher Order Functions/5 PRACTICE">
       <method v="2" />
     </configuration>
-    <configuration name="📄2 findSolution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄2 findSolution.js" working-dir="$PROJECT_DIR$/3 Functions/3 PRACTICE">
+    <configuration name="📝 3 restParameters.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 3 restParameters.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 PRACTICE">
       <method v="2" />
     </configuration>
-    <configuration name="📄3 PrintFarmInventory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 SOLUTION/📄3 PrintFarmInventory.js" working-dir="$PROJECT_DIR$/3 Functions/3 SOLUTION">
+    <configuration name="📝 4 TheMathObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4 Data Structures/4 SOLUTION/📝 4 TheMathObject.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 SOLUTION">
       <method v="2" />
     </configuration>
-    <configuration name="📄3 printFarmInventory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/3 Functions/3 PRACTICE/📄3 printFarmInventory.js" working-dir="$PROJECT_DIR$/3 Functions/3 PRACTICE">
+    <configuration name="📝 4 theMathObject.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4 Data Structures/4 PRACTICE/📝 4 theMathObject.js" working-dir="$PROJECT_DIR$/4 Data Structures/4 PRACTICE">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.📄1 power.js" />
-      <item itemvalue="Node.js.📄2 FindSolution.js" />
-      <item itemvalue="Node.js.📄2 findSolution.js" />
-      <item itemvalue="Node.js.📄3 PrintFarmInventory.js" />
-      <item itemvalue="Node.js.📄3 printFarmInventory.js" />
+      <item itemvalue="Node.js.📝 3 restParameters.js" />
+      <item itemvalue="Node.js.📝 4 theMathObject.js" />
+      <item itemvalue="Node.js.📝 4 TheMathObject.js" />
+      <item itemvalue="Node.js.🎽 1 Flattening.js" />
+      <item itemvalue="Node.js.🎽 1 flattening.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.📄2 findSolution.js" />
-        <item itemvalue="Node.js.📄2 FindSolution.js" />
-        <item itemvalue="Node.js.📄3 printFarmInventory.js" />
-        <item itemvalue="Node.js.📄3 PrintFarmInventory.js" />
-        <item itemvalue="Node.js.📄1 power.js" />
+        <item itemvalue="Node.js.🎽 1 flattening.js" />
+        <item itemvalue="Node.js.🎽 1 Flattening.js" />
+        <item itemvalue="Node.js.📝 4 theMathObject.js" />
+        <item itemvalue="Node.js.📝 4 TheMathObject.js" />
+        <item itemvalue="Node.js.📝 3 restParameters.js" />
       </list>
     </recent_temporary>
   </component>
@@ -203,72 +216,134 @@
       <workItem from="1592329352623" duration="336000" />
       <workItem from="1592592399886" duration="60000" />
       <workItem from="1592630597803" duration="6373000" />
-      <workItem from="1593814738566" duration="2106000" />
-      <workItem from="1593860584291" duration="10481000" />
-      <workItem from="1593924254702" duration="3005000" />
-      <workItem from="1593930995857" duration="8465000" />
+      <workItem from="1594011435222" duration="1797000" />
+      <workItem from="1594013340699" duration="3912000" />
+      <workItem from="1594021680623" duration="7857000" />
+      <workItem from="1594058610999" duration="1072000" />
+      <workItem from="1594079333240" duration="1197000" />
+      <workItem from="1594080763519" duration="781000" />
+      <workItem from="1594147064363" duration="5014000" />
+      <workItem from="1594235612018" duration="19000" />
+      <workItem from="1594235643325" duration="1385000" />
+      <workItem from="1594404546300" duration="4747000" />
+      <workItem from="1594529304575" duration="2817000" />
+      <workItem from="1594572281183" duration="4792000" />
+      <workItem from="1594577247685" duration="2525000" />
+      <workItem from="1594580983803" duration="1463000" />
+      <workItem from="1594655832410" duration="3055000" />
+      <workItem from="1594707248104" duration="4300000" />
+      <workItem from="1594833253533" duration="3895000" />
+      <workItem from="1594837926549" duration="1213000" />
+      <workItem from="1594840719001" duration="945000" />
+      <workItem from="1595062255777" duration="5232000" />
+      <workItem from="1595090424893" duration="1792000" />
     </task>
+    <task id="LOCAL-00001" summary="Function section 3 preparation - final">
+      <created>1593719780405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593719780405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Function section 3 preparation - final2">
+      <created>1593720050550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593720050550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit of the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit of the project" />
+    <MESSAGE value="Function section 3 preparation - final" />
+    <MESSAGE value="Function section 3 preparation - final2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function section 3 preparation - final2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="437" y="410" width="551" height="342" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594027341147">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="437" y="410" width="551" height="342" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594027341147" />
     <state x="426" y="27" key="CommitChangelistDialog2" timestamp="1592238622531">
       <screen x="66" y="0" width="1470" height="864" />
     </state>
     <state x="426" y="27" key="CommitChangelistDialog2/66.0.1470.864@66.0.1470.864" timestamp="1592238622531" />
-    <state x="159" y="93" width="1284" height="678" key="DiffContextDialog" timestamp="1593938732492">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state x="774" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594079760482">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="159" y="93" width="1284" height="678" key="DiffContextDialog/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593938732492" />
-    <state width="1449" height="230" key="GridCell.Tab.0.bottom" timestamp="1593938954903">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state x="774" y="311" width="424" height="491" key="FileChooserDialogImpl/62.27.1858.1053@62.27.1858.1053" timestamp="1594079760482" />
+    <state width="1835" height="301" key="GridCell.Tab.0.bottom" timestamp="1595092167218">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="198" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1593719724242" />
-    <state width="1449" height="230" key="GridCell.Tab.0.bottom/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593938954903" />
+    <state width="659" height="751" key="GridCell.Tab.0.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594031519290" />
+    <state width="1835" height="301" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1595092167218" />
     <state width="1449" height="211" key="GridCell.Tab.0.bottom/66.0.1470.864@66.0.1470.864" timestamp="1592658227671" />
-    <state width="1449" height="230" key="GridCell.Tab.0.center" timestamp="1593938954903">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state width="1835" height="301" key="GridCell.Tab.0.center" timestamp="1595092167217">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="198" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1593719724241" />
-    <state width="1449" height="230" key="GridCell.Tab.0.center/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593938954903" />
+    <state width="659" height="751" key="GridCell.Tab.0.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594031519290" />
+    <state width="1835" height="301" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1595092167217" />
     <state width="1449" height="211" key="GridCell.Tab.0.center/66.0.1470.864@66.0.1470.864" timestamp="1592658227671" />
-    <state width="1449" height="230" key="GridCell.Tab.0.left" timestamp="1593938954903">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state width="1835" height="301" key="GridCell.Tab.0.left" timestamp="1595092167216">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="198" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1593719724240" />
-    <state width="1449" height="230" key="GridCell.Tab.0.left/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593938954903" />
+    <state width="659" height="751" key="GridCell.Tab.0.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594031519290" />
+    <state width="1835" height="301" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1595092167216" />
     <state width="1449" height="211" key="GridCell.Tab.0.left/66.0.1470.864@66.0.1470.864" timestamp="1592658227671" />
-    <state width="1449" height="230" key="GridCell.Tab.0.right" timestamp="1593938954903">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state width="1835" height="301" key="GridCell.Tab.0.right" timestamp="1595092167218">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="198" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1593719724241" />
-    <state width="1449" height="230" key="GridCell.Tab.0.right/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593938954903" />
+    <state width="659" height="751" key="GridCell.Tab.0.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594031519290" />
+    <state width="1835" height="301" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1595092167218" />
     <state width="1449" height="211" key="GridCell.Tab.0.right/66.0.1470.864@66.0.1470.864" timestamp="1592658227671" />
-    <state x="92" y="66" key="SettingsEditor" timestamp="1593890997006">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state x="615" y="198" width="900" height="828" key="SettingsEditor" timestamp="1594577313648">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="92" y="66" key="SettingsEditor/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593890997006" />
-    <state x="2031" y="418" width="1242" height="849" maximized="true" key="dock-window-1" timestamp="1593862135088">
-      <screen x="1920" y="0" width="1536" height="864" />
+    <state x="268" y="188" width="900" height="779" key="SettingsEditor/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594027353991" />
+    <state x="615" y="198" width="900" height="828" key="SettingsEditor/62.27.1858.1053@62.27.1858.1053" timestamp="1594577313648" />
+    <state x="480" y="188" width="1022" height="737" key="SettingsEditor/62.27.3778.1053@62.27.3778.1053" timestamp="1594059548426" />
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593719818158">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="2031" y="418" width="1242" height="849" maximized="true" key="dock-window-1/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593862135088" />
-    <state x="1920" y="0" width="1550" height="872" key="dock-window-2" timestamp="1593882585495">
-      <screen x="1920" y="0" width="1536" height="864" />
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053@62.27.1858.1053" timestamp="1593719818158" />
+    <state x="864" y="400" width="557" height="314" key="cloudConfig.SelfSettingsDialog" timestamp="1594014671352">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="1920" y="0" width="1550" height="872" key="dock-window-2/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593882585495" />
-    <state x="644" y="204" key="refactoring.ChangeSignatureDialog" timestamp="1593801613143">
-      <screen x="66" y="0" width="1470" height="864" />
+    <state x="864" y="400" width="557" height="314" key="cloudConfig.SelfSettingsDialog/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594014671352" />
+    <state x="762" y="468" width="448" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593720063207">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="644" y="204" key="refactoring.ChangeSignatureDialog/66.0.1470.864/1920.0.1536.864@66.0.1470.864" timestamp="1593801613143" />
+    <state x="762" y="468" width="448" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.27.1858.1053@62.27.1858.1053" timestamp="1593720063207" />
+    <state x="1965" y="0" width="1479" height="781" maximized="true" key="dock-window-1" timestamp="1594024724748">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1965" y="0" width="1479" height="781" maximized="true" key="dock-window-1/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594024724748" />
+    <state x="654" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594059480238">
+      <screen x="62" y="27" width="3778" height="1053" />
+    </state>
+    <state x="654" y="259" width="672" height="678" key="search.everywhere.popup/62.27.3778.1053@62.27.3778.1053" timestamp="1594059480238" />
   </component>
   <component name="masterDetails">
     <states>
