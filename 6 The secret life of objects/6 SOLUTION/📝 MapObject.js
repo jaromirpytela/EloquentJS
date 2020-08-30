@@ -1,5 +1,3 @@
-/*Class Map stores a mapping, and allows any kind of keys.
-Create ages object and use its get, set and has methods.*/
 
 let ages = new Map();
 ages.set("Boris", 39);

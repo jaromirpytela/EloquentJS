@@ -1,12 +1,3 @@
-/* The standard JavaScript environment provides another data 
-structure called Set. Like an instance of Map, a Set holds a
-collection of values. Unlike Map, it does not associate other
-values with those - it just tracks which values are part of the
-set. A value can only be part of a set once - adding it again 
-doesn’t have any effect.
-Write a class called Group. Like Set, it has add, delete, and
-has methods. Make the Group class structure.
-*/
 
 class Group {
   constructor() {

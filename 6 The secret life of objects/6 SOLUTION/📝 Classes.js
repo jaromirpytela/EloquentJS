@@ -1,4 +1,5 @@
-// 1)Call hungry rabbit without using prototype with two different method calls
+console.log(`*****  Call hungry without using prototype with two different method calls  *****`)
+
  function speak(line) {
     console.log(`The ${this.type} rabbit says '${line}'`);
 }
@@ -6,21 +7,20 @@ let hungryRabbit = { type: "hungry", speak };
 hungryRabbit.speak("I could go for a carrot.");
 speak.call(hungryRabbit, "Crunch!");
 
+console.log(`*****  Call killer with speak method from prototype without class notation.  *****`)
 
-// 2)Call killerRabbit with speak method originating from prototype without class notation.
 let protoRabbit = {
     speak(line) {
         console.log(`The ${this.type} rabbit says '${line}'`);
     }
-}; 
-
+};
 
 let killerRabbit = Object.create(protoRabbit);
 killerRabbit.type = "killer";
 killerRabbit.speak("SKREEEE!");
 
+console.log(`***** Call white and black with class notation *****`)
 
-// 3)Call white and black rabbit with class notation.
 class Rabbit {
     constructor(type) {
         this.type = type;
@@ -34,10 +34,12 @@ let blackRabbit = new Rabbit("black");
 whiteRabbit.speak("I can speak!");
 blackRabbit.speak("Me too.");
 
-// 4) Override the "speak" method for blackRabbit.
-blackRabbit.speak= function(line){
-    console.log(`The ${this.type} rabbit can not speak anymore.`)
-};
-blackRabbit.speak("Want to speak again");
+console.log(`**** Override the speak method for blackRabbit ****`);
 
+
+blackRabbit.speak= function(line){
+    console.log(`The ${this.type} rabbit ${line}`)
+};
+blackRabbit.speak(`can not speak`);
+speak.call(blackRabbit, `can not speak`)
 
