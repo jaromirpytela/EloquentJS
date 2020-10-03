@@ -11,13 +11,13 @@ console.log(`*****  Call killer with speak method from prototype without class n
 
 let protoRabbit = {
     speak(line) {
-        console.log(`The ${this.type} rabbit says '${line}'`);
+        console.log(`The ${this.type} rabbit gives a '${line}'.`);
     }
 };
 
 let killerRabbit = Object.create(protoRabbit);
 killerRabbit.type = "killer";
-killerRabbit.speak("SKREEEE!");
+killerRabbit.speak("screach");
 
 console.log(`***** Call white and black with class notation *****`)
 
@@ -34,7 +34,7 @@ let blackRabbit = new Rabbit("black");
 whiteRabbit.speak("I can speak!");
 blackRabbit.speak("Me too.");
 
-console.log(`**** Override the speak method for blackRabbit ****`);
+console.log(`**** Override the speak method for blackRabbit, use speak call ****`);
 
 
 blackRabbit.speak= function(line){
