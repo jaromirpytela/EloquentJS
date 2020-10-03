@@ -1,17 +1,22 @@
-function every(array, predicate) {
-  for (let element of array) {
-    if (!predicate(element)) return false;
-  }
-  return true;
+
+function everyLoop(array, predicate) {
+    for (let element of array) {
+        if (!predicate(element)) return false;
+    }
+    return true;
 }
 
-function every2(array, predicate) {
-  return !array.some(element => !predicate(element));
+function everySome(array, predicate) {
+    return !array.some(element => !predicate(element));
 }
 
-console.log(every([1, 3, 5], n => n < 10));
+console.log(everyLoop([1, 3, 5], n => n < 10));
+console.log(everyLoop([2, 4, 16], n => n < 10));
+console.log(everyLoop([], n => n < 10));
+console.log(everySome([1, 3, 5], n => n < 10));
+console.log(everySome([2, 4, 16], n => n < 10));
+console.log(everySome([], n => n < 10));
+
 // → true
-console.log(every([2, 4, 16], n => n < 10));
 // → false
-console.log(every([], n => n < 10));
 // → true
