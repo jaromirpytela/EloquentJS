@@ -1,0 +1,26 @@
+
+<body>
+<script>
+    class InputError extends Error {}
+
+     function promptDirection(question) {
+        let result = prompt(question).toLowerCase();
+        if (result === "left") return "L";
+        if (result === "right") return "R";
+        throw new InputError("Invalid direction: " + result);
+    }
+    for (;;) {
+        try {
+            let dir = promptDirection("Where?");
+            alert("You chose "+ dir);
+            break;
+        } catch (e) {
+            if (e instanceof InputError) {
+                alert("Not a valid direction. Try again.");
+            } else {
+                throw e;
+            }
+        }
+    }
+</script>
+</body>

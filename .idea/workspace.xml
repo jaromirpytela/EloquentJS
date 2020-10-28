@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -24,25 +27,31 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="Function section 3 preparation - final2">
-      <change beforePath="$USER_HOME$/Documents/E-books/08302020.kdbx" beforeDir="false" afterPath="$USER_HOME$/Documents/E-books/08302020.kdbx" afterDir="false" />
-      <change beforePath="$USER_HOME$/Documents/E-books/18072020.kdbx" beforeDir="false" />
-      <change beforePath="$USER_HOME$/Documents/E-books/The Linux Command Line.pdf" beforeDir="false" />
+    <list default="true" id="71a42d26-66cb-4d98-b37a-60c35cbc5c84" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master' into master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/1 testing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/2 debugging.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/3 error propagation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/4 exceptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/5 cleaning up after exceptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/6 selective Catching.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/7 assertions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/Ex1 retry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/Ex2 the Locked Box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/1 Testing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/2 Debugging.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/3 Error propagatio n.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/4 Exceptions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/5 Cleaning up after expresions.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/6 Selective Catching.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/7 Assertions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/Ex.1 Retry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/Ex.2 The Locked Box.js" afterDir="false" />
+      <change beforePath="$USER_HOME$/Documents/E-books/08302020.kdbx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/Documents/E-books/EloquentJS.pdf" beforeDir="false" afterPath="$USER_HOME$/Documents/E-books/EloquentJS.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 1 aVectorType.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 1 aVectorType.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 1 aVectorType.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 1 aVectorType.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 2 groups.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 2 groups.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 2 groups.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 2 groups.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 3 borrowingAmethod.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 3 borrowingAmethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 3 borrowingAmethod.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 3 borrowingAmethod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 4 symbolMethod_String.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 4 symbolMethod_String.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ 4 symbolMethod_String.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 4 symbolMethod_String.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ MapMethod.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 MapMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ mapMethod.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 mapMethod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ classes.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ classes.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ getPrototypeOf.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 getPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ getPrototypeOf.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 getPrototypeOf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ mapObject.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 mapObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ mapObject.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 mapObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ symbolIteratorData.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 symbolIteratorData.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ symbolIteratorData.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 symbolIteratorData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ temperature.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 temperature.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/ temperature.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 temperature.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ 2 Groups.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/🎽 2 Groups.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ 2 Groups.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/🎽 2 Groups.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ Classes.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 Classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ Classes.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 Classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ MapObject.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 MapObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ MapObject.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 MapObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ SymbolIteratorData.js" beforePathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 SymbolIteratorData.js" beforeDir="false" afterPath="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/ SymbolIteratorData.js" afterPathEscaped="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 SymbolIteratorData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 JavaScript and the Browser/My home page.html" beforeDir="false" afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/My home page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 JavaScript and the Browser/code/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/13 JavaScript and the Browser/code/alert.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +61,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,7 +83,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/E-books" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,55 +93,61 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\4 Data Structures" />
-      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\2 Program Structure" />
-      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\3 Functions" />
-      <recent name="C:\Users\Ja\.WebStorm2019.2\config\scratches" />
-      <recent name="C:\JavaScript\EloquentJS\4 Data Structures\4 PRACTICE" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE" />
+      <recent name="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION" />
       <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\4 Data Structures" />
       <recent name="C:\Users\Ja\.WebStorm2019.2\config\scratches" />
       <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\2 Program Structure\2 SOLUTION" />
-      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\5 Higher Order Functions\5 BOOK" />
-      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\3 Functions\3 BOOK" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION" />
+      <recent name="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE" />
+      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\4 Data Structures" />
+      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\2 Program Structure" />
+      <recent name="C:\Users\Ja\Documents\JavaScript\EloquentJS\3 Functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.📝 SymbolIteratorData.js">
-    <configuration name="🎽 2 Groups.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/🎽 2 Groups.js" working-dir="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION">
+  <component name="RunManager" selected="Node.js.Ex2 the Locked Box.js">
+    <configuration name="6 Selective Catching.html" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="8 Bugs and Errors/8 SOLUTION/6 Selective Catching.html" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="🎽 4 SymbolMethod_String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/🎽 4 SymbolMethod_String.js" working-dir="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION">
+    <configuration name="7 assertions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="7 assertions.js" working-dir="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE">
       <method v="2" />
     </configuration>
-    <configuration name="🎽 4 symbolMethod_String.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/🎽 4 symbolMethod_String.js" working-dir="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE">
+    <configuration name="Ex1 retry.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/Ex1 retry.js" working-dir="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE">
       <method v="2" />
     </configuration>
-    <configuration name="📝 SymbolIteratorData.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/📝 SymbolIteratorData.js" working-dir="$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION">
+    <configuration name="Ex2 the Locked Box.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE/Ex2 the Locked Box.js" working-dir="$PROJECT_DIR$/8 Bugs and Errors/8 PRACTICE">
       <method v="2" />
     </configuration>
-    <configuration name="📝 symbolIteratorData.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE/📝 symbolIteratorData.js" working-dir="$PROJECT_DIR$/6 The secret life of objects/6 PRACTICE">
+    <configuration name="Ex.1 Retry.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/Ex.1 Retry.js" working-dir="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex.2 The Locked Box.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION/Ex.2 The Locked Box.js" working-dir="$PROJECT_DIR$/8 Bugs and Errors/8 SOLUTION">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.🎽 2 Groups.js" />
-      <item itemvalue="Node.js.🎽 4 SymbolMethod_String.js" />
-      <item itemvalue="Node.js.🎽 4 symbolMethod_String.js" />
-      <item itemvalue="Node.js.📝 SymbolIteratorData.js" />
-      <item itemvalue="Node.js.📝 symbolIteratorData.js" />
+      <item itemvalue="Node.js.6 Selective Catching.html" />
+      <item itemvalue="Node.js.7 assertions.js" />
+      <item itemvalue="Node.js.Ex1 retry.js" />
+      <item itemvalue="Node.js.Ex2 the Locked Box.js" />
+      <item itemvalue="Node.js.Ex.1 Retry.js" />
+      <item itemvalue="Node.js.Ex.2 The Locked Box.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.📝 SymbolIteratorData.js" />
-        <item itemvalue="Node.js.🎽 4 symbolMethod_String.js" />
-        <item itemvalue="Node.js.🎽 4 SymbolMethod_String.js" />
-        <item itemvalue="Node.js.📝 symbolIteratorData.js" />
-        <item itemvalue="Node.js.🎽 2 Groups.js" />
+        <item itemvalue="Node.js.Ex2 the Locked Box.js" />
+        <item itemvalue="Node.js.Ex.2 The Locked Box.js" />
+        <item itemvalue="Node.js.Ex.1 Retry.js" />
+        <item itemvalue="Node.js.Ex1 retry.js" />
+        <item itemvalue="Node.js.7 assertions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +278,68 @@
       <workItem from="1601552142508" duration="8055000" />
       <workItem from="1601664744930" duration="3505000" />
       <workItem from="1601712850823" duration="7300000" />
+      <workItem from="1601751661539" duration="599000" />
+      <workItem from="1601795653673" duration="4660000" />
+      <workItem from="1601837153761" duration="565000" />
+      <workItem from="1601922444352" duration="2897000" />
+      <workItem from="1602005937535" duration="625000" />
+      <workItem from="1602009015778" duration="1600000" />
+      <workItem from="1602027681833" duration="2172000" />
+      <workItem from="1602096464134" duration="1918000" />
+      <workItem from="1602183741825" duration="3192000" />
+      <workItem from="1602187616709" duration="284000" />
+      <workItem from="1602268443916" duration="124000" />
+      <workItem from="1602268576531" duration="24000" />
+      <workItem from="1602268612454" duration="3905000" />
+      <workItem from="1602318462819" duration="3773000" />
+      <workItem from="1602342835404" duration="4729000" />
+      <workItem from="1602347870894" duration="1268000" />
+      <workItem from="1602349156373" duration="1087000" />
+      <workItem from="1602355993220" duration="1153000" />
+      <workItem from="1602357267112" duration="109000" />
+      <workItem from="1602391604469" duration="1737000" />
+      <workItem from="1602427503241" duration="2014000" />
+      <workItem from="1602430481035" duration="3640000" />
+      <workItem from="1602438047906" duration="3973000" />
+      <workItem from="1602473652445" duration="2444000" />
+      <workItem from="1602525895058" duration="4777000" />
+      <workItem from="1602609215113" duration="4075000" />
+      <workItem from="1602615898233" duration="1295000" />
+      <workItem from="1602702534762" duration="540000" />
+      <workItem from="1602703179262" duration="1216000" />
+      <workItem from="1602761160743" duration="527000" />
+      <workItem from="1602784961852" duration="193000" />
+      <workItem from="1602876879860" duration="285000" />
+      <workItem from="1602877175362" duration="2825000" />
+      <workItem from="1602910153166" duration="3203000" />
+      <workItem from="1602925656797" duration="2181000" />
+      <workItem from="1602932990354" duration="9394000" />
+      <workItem from="1602997915123" duration="1088000" />
+      <workItem from="1603046893894" duration="4420000" />
+      <workItem from="1603052471573" duration="61000" />
+      <workItem from="1603052543202" duration="967000" />
+      <workItem from="1603084857047" duration="4718000" />
+      <workItem from="1603101538824" duration="1583000" />
+      <workItem from="1603106995864" duration="5620000" />
+      <workItem from="1603128618253" duration="1700000" />
+      <workItem from="1603130330404" duration="462000" />
+      <workItem from="1603217276296" duration="1356000" />
+      <workItem from="1603219798827" duration="13000" />
+      <workItem from="1603223028104" duration="560000" />
+      <workItem from="1603305851134" duration="2941000" />
+      <workItem from="1603390106204" duration="3522000" />
+      <workItem from="1603475071265" duration="5640000" />
+      <workItem from="1603548742855" duration="5907000" />
+      <workItem from="1603563377553" duration="2406000" />
+      <workItem from="1603620585057" duration="1592000" />
+      <workItem from="1603655407559" duration="1619000" />
+      <workItem from="1603745105388" duration="884000" />
+      <workItem from="1603746010766" duration="165000" />
+      <workItem from="1603828118367" duration="3199000" />
+      <workItem from="1603832435836" duration="315000" />
+      <workItem from="1603871577840" duration="8006000" />
+      <workItem from="1603896125879" duration="6361000" />
+      <workItem from="1603903598135" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="Function section 3 preparation - final">
       <created>1593719780405</created>
@@ -284,7 +362,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595092497176</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Section 6 final">
+      <created>1601744659892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601744659892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Section 6 final">
+      <created>1601744812637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601744812637</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master' into master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1601744975928</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601744975928</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,96 +407,201 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$USER_HOME$/OneDrive/Documents/E-books" />
+    </ignored-roots>
     <MESSAGE value="First commit of the project" />
     <MESSAGE value="Function section 3 preparation - final" />
     <MESSAGE value="Function section 3 preparation - final2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function section 3 preparation - final2" />
+    <MESSAGE value="Section 6 final" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master' into master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master' into master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="437" y="410" width="551" height="342" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1594027341147">
+    <state x="178" y="468" width="402" height="227" key="#Chrome_Settings" timestamp="1603052700849">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="437" y="410" width="551" height="342" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594027341147" />
-    <state x="774" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594079760482">
+    <state x="178" y="468" width="402" height="227" key="#Chrome_Settings/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603052700849" />
+    <state x="779" y="464" width="402" height="199" key="#Firefox_Settings" timestamp="1602347792776">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="774" y="311" width="424" height="491" key="FileChooserDialogImpl/62.27.1858.1053@62.27.1858.1053" timestamp="1594079760482" />
-    <state width="1835" height="250" key="GridCell.Tab.0.bottom" timestamp="1601744646522">
+    <state x="779" y="464" width="402" height="199" key="#Firefox_Settings/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602347792776" />
+    <state x="752" y="337" width="467" height="460" key="#Web_Browsers" timestamp="1603053438712">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="250" key="GridCell.Tab.0.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601744646522" />
-    <state width="1835" height="250" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1601734029536" />
-    <state width="1835" height="250" key="GridCell.Tab.0.center" timestamp="1601744646522">
+    <state x="752" y="337" width="467" height="460" key="#Web_Browsers/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603053438712" />
+    <state x="656" y="194" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603831210374">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="250" key="GridCell.Tab.0.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601744646522" />
-    <state width="1835" height="250" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1601734029535" />
-    <state width="1835" height="250" key="GridCell.Tab.0.left" timestamp="1601744646521">
+    <state x="656" y="194" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603831210374" />
+    <state x="1210" y="227" width="663" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602097202402">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="250" key="GridCell.Tab.0.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601744646521" />
-    <state width="1835" height="250" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1601734029535" />
-    <state width="1835" height="250" key="GridCell.Tab.0.right" timestamp="1601744646522">
+    <state x="1210" y="227" width="663" height="403" key="#com.intellij.fileTypes.FileTypeChooser/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602097202402" />
+    <state x="1341" y="270" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603052805577">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state width="1835" height="250" key="GridCell.Tab.0.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601744646522" />
-    <state width="1835" height="250" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1601734029535" />
+    <state x="1341" y="270" width="424" height="491" key="FileChooserDialogImpl/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603052805577" />
+    <state width="1835" height="170" key="GridCell.Tab.0.bottom" timestamp="1603903586820">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="170" key="GridCell.Tab.0.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603903586820" />
+    <state width="1835" height="312" key="GridCell.Tab.0.bottom/62.27.1858.1053@62.27.1858.1053" timestamp="1603121391418" />
+    <state width="1835" height="312" key="GridCell.Tab.0.bottom/62.27.3778.1053@62.27.3778.1053" timestamp="1603124850373" />
+    <state width="1835" height="170" key="GridCell.Tab.0.center" timestamp="1603903586820">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="170" key="GridCell.Tab.0.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603903586820" />
+    <state width="1835" height="312" key="GridCell.Tab.0.center/62.27.1858.1053@62.27.1858.1053" timestamp="1603121391416" />
+    <state width="1835" height="312" key="GridCell.Tab.0.center/62.27.3778.1053@62.27.3778.1053" timestamp="1603124850371" />
+    <state width="1835" height="170" key="GridCell.Tab.0.left" timestamp="1603903586819">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="170" key="GridCell.Tab.0.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603903586819" />
+    <state width="1835" height="312" key="GridCell.Tab.0.left/62.27.1858.1053@62.27.1858.1053" timestamp="1603121391414" />
+    <state width="1835" height="312" key="GridCell.Tab.0.left/62.27.3778.1053@62.27.3778.1053" timestamp="1603124850370" />
+    <state width="1835" height="170" key="GridCell.Tab.0.right" timestamp="1603903586820">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1835" height="170" key="GridCell.Tab.0.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603903586820" />
+    <state width="1835" height="312" key="GridCell.Tab.0.right/62.27.1858.1053@62.27.1858.1053" timestamp="1603121391417" />
+    <state width="1835" height="312" key="GridCell.Tab.0.right/62.27.3778.1053@62.27.3778.1053" timestamp="1603124850372" />
+    <state width="1918" height="1010" key="GridCell.Tab.1.bottom" timestamp="1603880000185">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.1.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000185" />
+    <state width="1918" height="1010" key="GridCell.Tab.1.center" timestamp="1603880000185">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.1.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000185" />
+    <state width="1918" height="1010" key="GridCell.Tab.1.left" timestamp="1603880000185">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.1.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000185" />
+    <state width="1918" height="1010" key="GridCell.Tab.1.right" timestamp="1603880000185">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.1.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000185" />
+    <state width="1918" height="1010" key="GridCell.Tab.2.bottom" timestamp="1603880000186">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.2.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000186" />
+    <state width="1918" height="1010" key="GridCell.Tab.2.center" timestamp="1603880000186">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.2.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000186" />
+    <state width="1918" height="1010" key="GridCell.Tab.2.left" timestamp="1603880000186">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.2.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000186" />
+    <state width="1918" height="1010" key="GridCell.Tab.2.right" timestamp="1603880000186">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state width="1918" height="1010" key="GridCell.Tab.2.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603880000186" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.bottom" timestamp="1602357363358">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357363358" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.center" timestamp="1602357363358">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357363358" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.left" timestamp="1602357363358">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357363358" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.right" timestamp="1602357363358">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.3.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357363358" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.bottom" timestamp="1602391679194">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602391679194" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.center" timestamp="1602391679194">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602391679194" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.left" timestamp="1602391679194">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602391679194" />
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.right" timestamp="1602391679194">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="1835" height="249" key="GridCell.Tab.4.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602391679194" />
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.bottom" timestamp="1602346204828">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.bottom/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602346204828" />
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.center" timestamp="1602346204828">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.center/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602346204828" />
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.left" timestamp="1602346204828">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.left/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602346204828" />
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.right" timestamp="1602346204828">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="62" y="595" width="360" height="271" key="GridCell.Tab.5.right/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602346204828" />
     <state x="622" y="316" width="728" height="482" key="MultipleFileMergeDialog" timestamp="1601744878745">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="622" y="316" width="728" height="482" key="MultipleFileMergeDialog/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601744878745" />
-    <state x="615" y="198" width="900" height="835" key="SettingsEditor" timestamp="1600717287143">
+    <state x="429" y="114" width="900" height="828" key="SettingsEditor" timestamp="1603745473241">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="268" y="188" width="900" height="779" key="SettingsEditor/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594027353991" />
+    <state x="429" y="114" width="900" height="828" key="SettingsEditor/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603745473241" />
     <state x="615" y="198" width="900" height="835" key="SettingsEditor/62.27.1858.1053@62.27.1858.1053" timestamp="1600717287143" />
-    <state x="480" y="188" width="1022" height="737" key="SettingsEditor/62.27.3778.1053@62.27.3778.1053" timestamp="1594059548426" />
-    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601744826838">
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601745006846">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601744826838" />
-    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053@62.27.1858.1053" timestamp="1595092563657" />
-    <state x="864" y="400" width="557" height="314" key="cloudConfig.SelfSettingsDialog" timestamp="1594014671352">
+    <state x="586" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1601745006846" />
+    <state x="519" y="244" width="934" height="626" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602098166718">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="864" y="400" width="557" height="314" key="cloudConfig.SelfSettingsDialog/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594014671352" />
+    <state x="519" y="244" width="934" height="626" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602098166718" />
     <state x="762" y="468" width="448" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598813659927">
       <screen x="62" y="27" width="1858" height="1053" />
     </state>
     <state x="762" y="468" width="448" height="184" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.27.1858.1053@62.27.1858.1053" timestamp="1598813659927" />
-    <state x="1965" y="0" width="1479" height="781" maximized="true" key="dock-window-1" timestamp="1594024724748">
+    <state x="201" y="412" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602433174290">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="201" y="412" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602433174290" />
+    <state x="2105" y="0" width="1453" height="1007" key="dock-window-1" timestamp="1603130792262">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="1965" y="0" width="1479" height="781" maximized="true" key="dock-window-1/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1594024724748" />
-    <state x="654" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594059480238">
-      <screen x="62" y="27" width="3778" height="1053" />
+    <state x="2105" y="0" width="1453" height="1007" key="dock-window-1/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1603130792262" />
+    <state x="377" y="526" width="914" height="308" key="dock-window-2" timestamp="1602392064028">
+      <screen x="62" y="27" width="1858" height="1053" />
     </state>
-    <state x="654" y="259" width="672" height="678" key="search.everywhere.popup/62.27.3778.1053@62.27.3778.1053" timestamp="1594059480238" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/6 The secret life of objects/6 SOLUTION/🎽 4 SymbolMethod_String.js</url>
-          <line>4</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="377" y="526" width="914" height="308" key="dock-window-2/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602392064028" />
+    <state x="934" y="643" width="914" height="308" key="dock-window-3" timestamp="1602357375737">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="914" height="308" key="dock-window-3/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357375737" />
+    <state x="934" y="643" width="914" height="308" key="dock-window-4" timestamp="1602357375737">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="914" height="308" key="dock-window-4/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357375737" />
+    <state x="934" y="643" width="914" height="308" key="dock-window-5" timestamp="1602357375737">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="934" y="643" width="914" height="308" key="dock-window-5/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602357375737" />
+    <state x="156" y="776" width="914" height="308" key="dock-window-6" timestamp="1602350244091">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="156" y="776" width="914" height="308" key="dock-window-6/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602350244091" />
+    <state x="781" y="418" width="400" height="284" key="scopes" timestamp="1602529403146">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="781" y="418" width="400" height="284" key="scopes/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602529403146" />
+    <state x="353" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1602271930562">
+      <screen x="62" y="27" width="1858" height="1053" />
+    </state>
+    <state x="353" y="259" width="672" height="678" key="search.everywhere.popup/62.27.1858.1053/1920.0.1920.1080@62.27.1858.1053" timestamp="1602271930562" />
   </component>
 </project>

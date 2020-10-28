@@ -1,0 +1,38 @@
+<body>
+<script>
+    const accounts = {
+        my: 100,
+        someone: 0,
+    };
+
+    function getAccount() {
+        let accountName = prompt("Enter recipient account name ").toLowerCase();
+        if (!accounts.hasOwnProperty(accountName)) {
+            throw new Error(`No such account: ${accountName}`);
+        }
+        return accountName;
+    }
+
+    function transfer(amount) {
+        let progress = 0;
+        try {
+            accounts.my -= Number(amount);
+            progress = 1;
+            accounts[getAccount()] += Number(amount);
+            progress = 2;
+        } finally {
+            if (progress === 1) {
+                accounts.my += amount;
+                status();
+            }
+        }
+    }
+    function status(){
+        alert(`My: ${String(accounts.my)},    Recipient: ${String(accounts.someone)}`);
+    }
+
+    status();
+    transfer(prompt("Enter amount"));
+    status();
+</script>
+</body>
