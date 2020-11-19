@@ -1,0 +1,29 @@
+<!--Write two different programs that build up a line of X characters 200 pixels wide and measures the time each one takes.
+Fill a line of 200 pixels with X. Use two different actions: appender and repeater. Use them as argument to a common function "timer". Show the output as an alert with text: NAME took ... ms.
+-->
+
+<h1>Layout</h1>
+<p><span id="appender"></span></p>
+<p><span id="repeater"></span></p>
+
+<script>
+    function timer(name, action) {
+        let start = Date.now();
+        action();
+        alert(`${name} took ${Date.now()-start} ms`);
+    }
+
+    timer("appender", ()=>{
+        let target = document.getElementById("appender");
+        while (target.offsetWidth<200){
+        target.appendChild(document.createTextNode("X"));
+        }
+    });
+    timer("repeater", ()=>{
+        let target = document.getElementById("repeater");
+        target.appendChild(document.createTextNode("XXXXXX"));
+        let singleX = Math.ceil(200/(target.offsetWidth/6));
+        target.firstChild.nodeValue="X".repeat(singleX);
+    });
+</script>
+

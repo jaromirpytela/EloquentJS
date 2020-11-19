@@ -1,0 +1,41 @@
+<!--
+The document.createElement method takes a tag name (type) and returns a new empty node of the given type. The utility "elt" creates an element node and treats the rest of its arguments as children to that node. Add an attribution to the quote.
+Quote:
+No book can ever be finished. While working on it we learn just enough to find it immature the moment we turn away from it.
+Attribution:
+—Karl Popper, preface to the second edition of The Open Society and Its Enemies, 1950
+("footer" except "strong" Karl Popper and "em" The Open Society and Its Enemies)
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nodes with .createElement</title>
+</head>
+<body>
+<blockquote>
+No book can ever be finished. While working on it we learn just enough to find it immature the moment we turn away from it.
+</blockquote>
+
+<script>
+   function elt(type, ...children){
+       let node = document.createElement(type);
+       for (let child of children){
+           if(typeof child!="string") node.appendChild(child);
+           else node.appendChild(document.createTextNode(child));
+       }
+       return node;
+   }
+   document.body.getElementsByTagName("blockquote")[0].appendChild(
+       elt("footer", "-",
+           elt("strong", "Karl Popper"),
+           ", preface to the second edition of",
+           elt("em", "The Open Society and its Enemies"),
+           ", 1950"));
+
+</script>
+
+</body>
+</html>
+

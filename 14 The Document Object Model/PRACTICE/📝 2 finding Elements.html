@@ -1,0 +1,11 @@
+<!--
+Display Gertrude on a web page. Locate the image element with two different identifiers and alert the identifiers by which were defined.-->
+
+<h1> Finding Elements</h1>
+<p><img id="Gertrude" src="../img/ostrich.png"></p>
+<script>
+    let byID = document.getElementById("Gertrude");
+     alert(byID.id);
+     let byTagName=document.getElementsByTagName("img")[0];
+     alert(byTagName);
+</script>

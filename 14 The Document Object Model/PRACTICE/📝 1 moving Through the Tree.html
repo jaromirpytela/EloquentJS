@@ -1,0 +1,28 @@
+<!--
+When dealing with a nested data structure, recursive functions are often useful. The following function scans a document for text nodes containing a given string and returns true when it has found one. Write a talksAbout function which returns true for ELEMENT and TEXT types of nodes.
+-->
+
+<p> <a> Here is a an Element book.</a> </p>
+Here is a Text book.
+
+<h1> Moving through the Tree. </h1>
+
+<script>
+    function talksAbout(node, string) {
+        if (node.nodeType === Node.ELEMENT_NODE) {
+            for (let child of node.childNodes) {
+                if (talksAbout(child, string)) {
+                    return true;
+                }
+            }
+            return false;
+        } else if (node.nodeType === Node.TEXT_NODE) {
+            return node.nodeValue.indexOf(string) > -1;
+        }
+    }
+
+alert(`Paragraph ${talksAbout(document.body.childNodes[0], "book")}`);
+alert(`Text ${talksAbout(document.body.childNodes[1],"book")}`);
+
+</script>
+

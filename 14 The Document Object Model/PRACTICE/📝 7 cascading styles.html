@@ -1,0 +1,27 @@
+<!--
+Styles in a style attribute applied directly to the node have the highest precedence and always win.
+1) Write a style sheet for "Blue letters" in red 3px rectangle, write border in a style attribute, font in a CSS.
+2) Write a default styling for <strong> tags, which gives them font -weight: bold, is overlaid by the rule in the <style> tag, which adds normal font-style. `Now the "strong text" is italic and gray. Now "the strong text" is normal, but with bisque background.`
+-->
+
+<h1> Cascading styles </h1>
+<p class= "blueLetters" style="border: 3px solid red; font-size: 200%">
+    Blue letters
+</p>
+
+<p> Now the <strong > strong text </strong> is italic and gray </p>
+<p> Now the <strong id= "bcgr" style="color: black; font-style:normal"> strong text </strong> is normal but with background. </p>
+
+<style>
+    strong{
+        font-style: italic;
+        color: gray;
+    }
+    .blueLetters{
+        color: blue;
+    }
+    #bcgr{
+        background: bisque;
+    }
+
+</style>

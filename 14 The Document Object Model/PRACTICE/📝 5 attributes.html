@@ -1,0 +1,22 @@
+<!--
+HTML allows you to set any attribute you want on nodes. This can be useful because it allows you to store extra information in a document. If you make up your own attribute names, though, such attributes will not be present as a property on the element’s node. Instead, you have to use the getAttribute and setAttribute methods to work with them.
+Set data-classified attributes as "secret" and "unclassified". Write removeSecret function to remove the message "The launch code is 00". Display only the unclassified text "Ready to launch".
+-->
+
+<h1> Attributes </h1>
+<p data-classified="unclassified">The launch code is 00.</p>
+<p data-classified="secret">Ready to launch.</p>
+<p > <button onclick=removeSecret()>REMOVE SECRET</button></p>
+<script>
+            debugger
+    function removeSecret(){
+        let paras = document.body.getElementsByTagName("p");
+        for(let para of Array.from(paras)){
+            if(para.getAttribute("data-classified")==="secret"){
+                para.remove();
+            }
+        }
+    }
+  //removeSecret();
+</script>
+

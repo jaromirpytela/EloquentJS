@@ -1,0 +1,24 @@
+<h1>Layout</h1>
+<p><span id="one"></span></p>
+<p><span id="two"></span></p>
+
+<script>
+    function timer(name, action) {
+        let start = Date.now();
+        action();
+        alert(`${name} took ${Date.now() - start} ms`);
+    }
+
+    timer("appender", () => {
+        let target = document.getElementById("one");
+        while (target.offsetWidth < 200) {
+            target.appendChild(document.createTextNode("X"));
+        }
+    });
+    timer("repeater", function () {
+        let target = document.getElementById("two");
+        target.appendChild(document.createTextNode("XXXXX"));
+        let singleX = Math.ceil(200 / (target.offsetWidth / 5));
+        target.firstChild.nodeValue = "X".repeat(singleX);
+    });
+</script>

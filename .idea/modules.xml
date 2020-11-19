@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Documents/.idea/Documents.iml" filepath="$USER_HOME$/Documents/.idea/Documents.iml" />
-      <module fileurl="file://$USER_HOME$/Documents/E-books/.idea/E-books.iml" filepath="$USER_HOME$/Documents/E-books/.idea/E-books.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/EloquentJS.iml" filepath="$PROJECT_DIR$/.idea/EloquentJS.iml" />
     </modules>
   </component>

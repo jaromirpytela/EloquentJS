@@ -1,0 +1,28 @@
+<!--
+Extend the cat animation defined earlier so that both the cat and his hat (<img src="img/hat.png">) orbit at opposite sides of the ellipse. To make positioning multiple objects easier, it is a good idea to switch to absolute positioning.
+-->
+
+<h1>Positioning</h1>
+<p style="text-align: center"><img src="../img/cat.png" class="cat" style="position: relative"></p>
+<p style="text-align: center"><img src="../img/hat.png" class="hat" style="position: relative"></p>
+<script>
+    let cat = document.querySelector(".cat");
+    let hat = document.querySelector(".hat");
+    let angleCat = Math.PI/2;
+    let angleHat=Math.PI*1.5;
+
+    function animate(time, lastTime) {
+        if(lastTime!=null) {
+            angleCat += (time-lastTime) * 0.001;
+            angleHat+=(time-lastTime)*0.001;
+        }
+            cat.style.top=(Math.sin(angleCat)*50)+"px";
+            cat.style.left = (Math.cos(angleCat)*200)+"px";
+        hat.style.top=(Math.sin(angleHat)*50)+"px";
+        hat.style.left = (Math.cos(angleHat)*200)+"px";
+
+        requestAnimationFrame(newTime=>animate(newTime, time));
+    }
+requestAnimationFrame(animate);
+</script>
+

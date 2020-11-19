@@ -1,0 +1,27 @@
+<!--
+Display a picture of a cat that moves around in an ellipse. The cat picture is centered on the page (text-align) and given a position of relative. To ensure the motion of the cat is stable, it bases the speed at which the angle changes on the difference between the current time and the last time the function ran (with 0.001 multiplication)
+Repeatedly update that picture’s top and left styles in order to move it. Use requestAnimationFrame to schedule the animate function to run whenever the browser is ready to repaint the screen. The animate function itself again calls requestAnimationFrame to schedule the next update. The animation function is passed the current time as an argument.
+-->
+
+<h1> Positioning </h1>
+
+<p style="text-align: center"><img src="../img/cat.png" style="position: relative"></p>
+
+<script>
+    let cat = document.querySelector("img");
+    let angle = 0;
+
+    function animate(time, lastTime) {
+        if (lastTime != null) {
+            angle += (time - lastTime) * 0.001;
+        }
+            cat.style.top = (Math.sin(angle)) * 50 + "px";
+            cat.style.left = (Math.cos(angle)) * 60 + "px";
+            requestAnimationFrame((newTime) => animate(newTime, time))
+    }
+debugger
+    requestAnimationFrame(animate);
+
+</script>
+
+

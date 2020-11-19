@@ -1,0 +1,23 @@
+<!--
+The querySelectorAll method, which is defined both on the document object and on element nodes, takes a selector string and returns an array-like object containing all the elements that it matches. Write a count function and use it for counting the number of paragraphs, animals, animals inside a paragraph and direct animal children of a paragraph.
+-->
+
+<h1>Query Selector</h1>
+<p>If you go chasing <span class=" animal">rabbits</span></p>
+<p>And you know you're going to fall</p>
+<p>Tell 'em a <span class="character"> hookah smoking <span class="animal">caterpillar</span></span></p>
+<p>Has given you the call</p>
+<span class="animal">[]</span>
+
+<script>
+    function count(selector) {
+        return document.querySelectorAll(selector).length;
+    }
+console.log(count("p"));
+    console.log(count(".animal"));
+    console.log(count("p .animal"));
+    console.log(count("p>.animal"));
+
+</script>
+
+

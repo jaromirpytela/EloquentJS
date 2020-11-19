@@ -1,0 +1,15 @@
+<!--
+Inserting paragraph Three in front of paragraph One will first remove it from the end of the document and then insert it at the front, resulting in Three/One/Two. Write such change order function, which can be started with a button.
+-->
+
+<h1> Changing the Document</h1>
+<p>Paragraph 1</p>
+<p>Paragraph 2</p>
+<p>Paragraph 3</p>
+<p><button onclick=changeOrder()>Change Order</button> </p>
+<script>
+    function changeOrder(){
+        let groupUp = document.getElementsByTagName("p");
+        document.body.insertBefore(groupUp[2], groupUp[0]);
+        }
+</script>

@@ -1,0 +1,30 @@
+<!--
+The document.getElementsByTagName method returns all child elements with a given tag name. Write "explore" function inside "byTagName" function, that takes a node and a string (tagName.toUpperCase) as arguments and returns an array containing all descendant element nodes with the given tag name. To find the tag name, use nodeName property.
+Count <h1> nodes (result = 2) and <span> (result = 3).
+-->
+<h1>Elements by Tag Name</h1>
+<h1>Heading with a <span>span</span> element.</h1>
+<p>A paragraph with <span>one</span>, <span>two</span>
+    spans.</p>
+
+<script>
+    function byTagName(node, tagName){
+        let found=[];
+        tagName = tagName.toUpperCase();
+
+        function explore(node){
+            for (let i = 0; i < node.childNodes.length; i++) {
+                let child=node.childNodes[i];
+                if(child.tagName===tagName) found.push(child);
+                explore(child);
+            }
+        }
+        explore(node);
+        return found;
+    }
+
+    console.log(byTagName(document.body, "h1").length);
+    console.log(byTagName(document.body, "span").length);
+
+</script>
+
